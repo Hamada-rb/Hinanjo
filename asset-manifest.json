@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hinanjo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hinanjo/static/js/main.eb385e10.chunk.js",
+    "main.js.map": "/hinanjo/static/js/main.eb385e10.chunk.js.map",
+    "runtime-main.js": "/hinanjo/static/js/runtime-main.1a3d473a.js",
+    "runtime-main.js.map": "/hinanjo/static/js/runtime-main.1a3d473a.js.map",
+    "static/css/2.11829350.chunk.css": "/hinanjo/static/css/2.11829350.chunk.css",
+    "static/js/2.ca3e00a1.chunk.js": "/hinanjo/static/js/2.ca3e00a1.chunk.js",
+    "static/js/2.ca3e00a1.chunk.js.map": "/hinanjo/static/js/2.ca3e00a1.chunk.js.map",
+    "index.html": "/hinanjo/index.html",
+    "precache-manifest.be9e25680d47531b0bcf23e254650459.js": "/hinanjo/precache-manifest.be9e25680d47531b0bcf23e254650459.js",
+    "service-worker.js": "/hinanjo/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/hinanjo/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/hinanjo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ca3e00a1.chunk.js.LICENSE.txt": "/hinanjo/static/js/2.ca3e00a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a3d473a.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.ca3e00a1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eb385e10.chunk.js"
+  ]
+}
